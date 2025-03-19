@@ -1,8 +1,9 @@
 # Hello, I'm Akanksha Kori 👋
 
-### Software Engineer | Frontend Developer
+### Frontend Software Engineer | Angular, React, JavaScript, TypeScript
 
-I am from India, currently living in Dublin, Ireland. I specialize in developing and maintaining high-quality, enterprise-level web applications using technologies like React, Angular, JavaScript, and TypeScript. I enjoy learning new technologies and exploring tech, with a focus on optimizing applications for performance and scalability.
+
+I am from India, currently living in Dublin, Ireland. I specialize in developing and maintaining high-quality, enterprise-level web applications using technologies like Angular, React, JavaScript, and TypeScript. I enjoy learning new technologies and exploring tech, with a focus on optimizing applications for performance and scalability.
 
 ### About Me
 - 🔭 I’m currently working on building responsive web applications and reusable components using Angular, React, JavaScript, and TypeScript.
